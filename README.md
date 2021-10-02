@@ -1,6 +1,6 @@
 # qlct_app
 
-A new Flutter project.
+quan ly chi tieu made by huyen
 
 ## Getting Started
 
@@ -15,3 +15,4 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 # KLTN_APP
+Huyen
